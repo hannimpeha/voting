@@ -5,15 +5,15 @@ MAS jasonProject {
 	
 	agents:
 		shindong agentArchClass AuctioneerGUI;
-		donghae;
-		kyuhyun;
-		eunhyuk;
-		leeteuk;
-		heechul;
-		ryeowook;
-		sungmin;
-		yesung;
-        siwon;
+		donghae [mindinspector="gui(cycle,html,history)"];
+		kyuhyun [mindinspector="gui(cycle,html,history)"];
+		eunhyuk [mindinspector="gui(cycle,html,history)"];
+		leeteuk [mindinspector="gui(cycle,html,history)"];
+		heechul [mindinspector="gui(cycle,html,history)"];
+		ryeowook[mindinspector="gui(cycle,html,history)"];
+		sungmin [mindinspector="gui(cycle,html,history)"];
+		yesung [mindinspector="gui(cycle,html,history)"];
+        siwon [mindinspector="gui(cycle,html,history)"];
         
 	aslSourcePath:
 		"src/asl";
