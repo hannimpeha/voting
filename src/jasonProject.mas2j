@@ -1,0 +1,20 @@
+MAS jasonProject {
+
+	infrastructure: Centralised
+	
+	
+	agents:
+		shindong agentArchClass AuctioneerGUI;
+		donghae;
+		kyuhyun;
+		eunhyuk;
+		leeteuk;
+		heechul;
+		ryeowook;
+		sungmin;
+		yesung;
+        siwon;
+        
+	aslSourcePath:
+		"src/asl";
+}
